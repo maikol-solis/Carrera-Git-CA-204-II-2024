@@ -21,7 +21,7 @@ Para esto haremos dos modalidades
 6. Finalmente `git push`
 7. Revise que su nombre todavía es el primero con `git pull`. Si es así, **Excelente vas ganando!**.  
 7. Si no es así, devuélvase a su rama con `git switch rama-su-nombre`
-1. Y ejecute `git pull origin/main`
+1. Y ejecute `git merge main`
 10. Vuelva a repetir los pasos hasta que su nombre sea el primero.
 
 ## Carrera con Rebase
