@@ -2,7 +2,7 @@
 
 Vamos a hacer dos carreras en los archivos que se encuentran en el repositorio:
 
-```
+```bash
 carrera-merge.txt
 carrera-rebase.txt
 ```
@@ -19,9 +19,9 @@ Para esto haremos dos modalidades
 4. Luego haga switch hacia la rama `main`
 5. Haga merge con `git merge rama-su-nombre`.
 6. Finalmente `git push`
-7. Revise que su nombre todavía es el primero con `git pull`. Si es así, **Excelente vas ganando!**.  
-7. Si no es así, devuélvase a su rama con `git switch rama-su-nombre`
-1. Y ejecute `git merge main`
+7. Revise que su nombre todavía es el primero con `git pull`. Si es así, **Excelente vas ganando!**.
+8. Si no es así, devuélvase a su rama con `git switch rama-su-nombre`
+9. Y ejecute `git merge main`
 10. Vuelva a repetir los pasos hasta que su nombre sea el primero.
 
 ## Carrera con Rebase
