@@ -1,4 +1,4 @@
-Escriban su nombre en esta lista:
+iEscriban su nombre en esta lista:
 
 - Diego Vega
 - César Salazar
@@ -11,3 +11,4 @@ Escriban su nombre en esta lista:
 - Joseph Romero Chinchilla
 - Gabriel Valverde
 - Jeikel Navarro Solis
+- Cristhofer Urrutia 
